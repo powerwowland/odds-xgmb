@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://odds.xgmb.site/sitemap.xml
